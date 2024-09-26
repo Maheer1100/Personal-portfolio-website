@@ -1,0 +1,18 @@
+.projects {
+    padding: 50px;
+    background: #f4f4f4;
+  }
+  
+  .project-list {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .project-item {
+    margin: 20px;
+    padding: 20px;
+    background: #fff;
+    border: 1px solid #ddd;
+    width: 300px;
+  }
+  

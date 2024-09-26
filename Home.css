@@ -1,0 +1,17 @@
+.home {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+    background: #f4f4f4;
+  }
+  
+  .home-content {
+    max-width: 50%;
+  }
+  
+  .home-photo {
+    width: 250px;
+    border-radius: 50%;
+  }
+  
